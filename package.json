@@ -3,7 +3,7 @@
     "displayName": "TitenQ Theme",
     "description": "",
     "version": "0.0.1",
-    "icon": "cerebro_icon.png",
+    "icon": "https://github.com/titenq/titenq-theme/blob/main/cerebro_icon.png?raw=true",
     "engines": {
         "vscode": "^1.54.0"
     },
