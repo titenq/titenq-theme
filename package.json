@@ -4,6 +4,7 @@
     "description": "",
     "version": "0.0.1",
     "icon": "https://github.com/titenq/titenq-theme/blob/main/cerebro_icon.png?raw=true",
+    "publisher": "titenq",
     "engines": {
         "vscode": "^1.54.0"
     },
@@ -18,5 +19,9 @@
                 "path": "./themes/TitenQ Theme-color-theme.json"
             }
         ]
-    }
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/titenq/titenq-theme.git"
+      }
 }
