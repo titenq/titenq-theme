@@ -1,0 +1,22 @@
+{
+    "name": "titenq-theme",
+    "displayName": "TitenQ Theme",
+    "description": "",
+    "version": "0.0.1",
+    "icon": "cerebro_icon.png",
+    "engines": {
+        "vscode": "^1.54.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "TitenQ Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/TitenQ Theme-color-theme.json"
+            }
+        ]
+    }
+}
